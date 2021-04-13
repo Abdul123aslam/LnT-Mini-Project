@@ -1,4 +1,6 @@
 SWOT ANALYSIS OF ONLINE BOOK STORE:-
+
+
 Strengths:-
 Use of Internet as a Storefront for Books services.
 
@@ -14,6 +16,7 @@ Cost effectiveness to the customers.
 
 Post sales service of informing customers about new products & new auctions
 
+
 Weaknesses:
 Supply of Books out of stock.
 
@@ -23,6 +26,7 @@ Dependent on external delivery services of courier services.
 
 Need Constant maintenance of website.
 
+
 Opportunities-:
 Online Bookstore.
 
@@ -31,6 +35,7 @@ Just a click away.
 To develop relationship with Publishers to offer exclusive editions..
 
 Collaborations with public sectors to provide rare & antique books.
+
 
 Threats:
 Local Bookshop vendors.
