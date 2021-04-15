@@ -10,7 +10,13 @@ SDLC phases applied on Book Store System.
 
 
 #Introduction topic
-This project is an online Book store syetem in which a user can check the availibilty of the books . If he/she want to buy, simply put the name of the book and quantity, it will generate the bill. 
+This project is an online Book store syetem in which a user can check the availibilty of the books . If he/she want to buy, simply put the name of the book and quantity, it will generate the bill.
+
+
+
+
+
+
 #Motivation
 Recent, the internet boom, has become a hot topic of emerging business patterns have shine, such as: online auctions, electronic marketplace, online store, online information providers and enterprises of the electronic information exchange … and so on. We see all kinds of e-commerce web shopping sites, selling various goods.
 
