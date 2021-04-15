@@ -1,5 +1,14 @@
 # LnT-Mini-Project
 SDLC phases applied on Book Store System.
+
+
+
+
+
+
+
+
+
 #Introduction topic
 This project is an online Book store syetem in which a user can check the availibilty of the books . If he/she want to buy, simply put the name of the book and quantity, it will generate the bill. 
 #Motivation
