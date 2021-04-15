@@ -1,5 +1,5 @@
-Test plan identifier  
-Project Test plan Online Book Store 
+#Test plan identifier  
+#Project Test plan Online Book Store 
 2. Introduction 
  
 The goal of this document is to develop a test plan for the Online Book Store design system. This document defines all the procedures and activities required to prepare for testing of the functionalities of the system which are specified in Vision document. The objectives of the test plan are to define the activities to perform testing, define the test deliverables documents and to identify the various risks and contingencies involved in testing. 
