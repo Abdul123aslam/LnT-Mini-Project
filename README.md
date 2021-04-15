@@ -1,6 +1,6 @@
 # LnT-Mini-Project
 
-![](online-bookshop-management-system.jpg)
+![](createanonlinebookstore-130103064652-phpapp01-thumbnail-4.jpg)
 
 
 SDLC phases applied on Book Store System.
