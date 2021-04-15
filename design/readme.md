@@ -1,1 +1,2 @@
-![](design/use%20case%20diagram.png)
+![](design/use case diagram.png)
+
